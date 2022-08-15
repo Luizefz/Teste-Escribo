@@ -23,7 +23,7 @@ Um dos métodos mais simples de execução é atraves do próprio navegador segu
 
 <br/>
 
-Agora, para executar a função, execute o seguinte comando:
+Agora, para executar a função, utilize o seguinte comando:
 
 ```Javascript
 somaDivisiveis(Número_Desejado)
